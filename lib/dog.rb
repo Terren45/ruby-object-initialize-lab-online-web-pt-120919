@@ -3,12 +3,12 @@ class Dog
     @dog_name = dog_name
   end
    
-   def do=(dog_name)
+   def dog_name=(dog_name)
      @name = dog_name
    end
    
-   def name
-     @name
+   def dog_name
+     @dog_name
    end
  end
 
