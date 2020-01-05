@@ -12,4 +12,4 @@ class Dog
   end
 end
 
-breed.Dog.new
+"Mutt" = Dog.new(breed)
